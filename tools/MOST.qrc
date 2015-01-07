@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/earth/earth.jpg</file>
+        <file>images/moon/moon.jpg</file>
+        <file>images/moon/lunar_surface.jpg</file>
+        <file>icons/timeline/pause.png</file>
+        <file>icons/timeline/reverse.png</file>
+        <file>icons/timeline/stop.png</file>
+        <file>icons/timeline/decreaseTimeStep.png</file>
+        <file>icons/timeline/increaseTimeStep.png</file>
+        <file>icons/timeline/end.png</file>
+        <file>icons/timeline/reset.png</file>
+        <file>icons/timeline/stepForward.png</file>
+        <file>icons/timeline/stepReverse.png</file>
+        <file>icons/timeline/forward.png</file>
+        <file>images/HSFLstackedrgb-logo.jpg</file>
+        <file>images/legend.bmp</file>
+        <file>images/hsfl.bmp</file>
+        <file>images/MOST.ico</file>
+        <file>images/Check1_48.png</file>
+        <file>images/uncheck.png</file>
+        <file>images/MOSTicon.bmp</file>
+        <file>images/CosmosLogo.png</file>
+        <file>images/crosshatch.gif</file>
+        <file>images/hatch.gif</file>
+        <file>images/cosmos_logo.png</file>
+        <file>images/CosmosSplash.png</file>
+        <file>images/HSFLSplash.png</file>
+    </qresource>
+</RCC>
